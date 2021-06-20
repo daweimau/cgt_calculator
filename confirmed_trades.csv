@@ -1,1 +1,7 @@
 Date,Confirmation No.,Code,Quantity,Action,Avg. price,Fees,Settl. value,Note
+2021-06-01,1a1a,NAB,3,Buy,3.15,0,9.45,
+2020-06-02,1a1a,NAB,3,Buy,3.15,0,9.45,
+2021-08-03,1a1a,NAB,3,Buy,3.15,0,9.45,
+2021-06-01,1a1a,CBA,2,Buy,4.00,0,8.00,
+2021-06-02,1a1a,CBA,1,Sell,4.50,0,4.50,
+2021-06-05,1a1a,NAB,7,Sell,3.50,0,24.50,
